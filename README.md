@@ -1,31 +1,38 @@
-# Flutter Multi Vendor Ecomerce Seller App
+# E-Learning Website with admin panel
 
 ## About Project -
 
-<h4>This is Ecomerce app where seller can sell products</h2>
+<h4>This is E-Learning website where user can buy course and can watch the course video contan</h4>
+<h4>There have admin panel where admin can add courses and lessons</h4>
+<h4>Admin also can edit and delete courses and lessons</h4>
 
 
 ##  Components Used :
 <h3>Language -</h4>
 <ul>
-  <li>Dart</li> 
+  <li>PHP</li>
+  <li>JavaScript</li>
+  <li>HTML & CSS</li>
+</ul>
+
+<h3>Framework -</h4>
+<ul>
+  <li>Ajax</li>
+  <li>jQuery</li>
+  
 </ul>
 
 <h3>Database -</h2>
 <ul>
-  <li>Firebase</li> 
+  <li>MySQL</li> 
 </ul>
 
-<h3>State Management -</h2>
-<ul>
-  <li>GetX</li> 
-</ul>
 
 <h3>Important Library Used -</h2>
 <ul>
-  <li>Velocity X</li> 
-  <li>Cupertino Icons</li>
-  <li>Badges</li>
+ <li>Bootstrap 5</li> 
+  <li>Google Fonts</li>
+  <li>Boxicons</li>
 
 </ul>
 
