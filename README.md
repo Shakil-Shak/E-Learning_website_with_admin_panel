@@ -88,3 +88,17 @@ https://user-images.githubusercontent.com/92030900/229706686-2ecb020f-c185-4c2c-
 
 <h3>Change Password page</h2>
 <img src="https://user-images.githubusercontent.com/92030900/229709905-fafe834d-b1af-4f78-aced-f0b0c996ea5a.JPG">
+
+# Activity Diagram
+<img src="https://user-images.githubusercontent.com/92030900/229711553-3e9f2c4c-08a4-4c24-b44a-7f74552a3e4e.jpg" width="750" height="900">
+
+<img src="https://user-images.githubusercontent.com/92030900/229711557-a2612dfe-2aaf-431c-bd73-13ec5d92fabb.jpg" width="750" height="900">
+
+<img src="https://user-images.githubusercontent.com/92030900/229711566-b9f4d2a3-4b76-4608-8655-c2ba61fad794.jpg" width="750" height="900">
+
+# Use Case Diagram
+<img src="https://user-images.githubusercontent.com/92030900/229711539-12b0236b-a2f2-45cb-9872-e774780c8ebd.jpg" width="750" height="900">
+
+# ER Diagram
+<img src="https://user-images.githubusercontent.com/92030900/229711571-e0e6ff80-fd92-42f5-bf1d-96bed0d46a88.jpg" width="750" height="900">
+
