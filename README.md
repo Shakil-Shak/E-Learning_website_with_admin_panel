@@ -44,7 +44,6 @@ https://user-images.githubusercontent.com/92030900/229706686-2ecb020f-c185-4c2c-
 
 # Screenshots -
 
-
 <h3>SignUp page</h2>
 <img src="https://user-images.githubusercontent.com/92030900/229706044-8a60d00f-819f-427b-915a-ea2985014fda.JPG">
 
@@ -89,22 +88,3 @@ https://user-images.githubusercontent.com/92030900/229706686-2ecb020f-c185-4c2c-
 
 <h3>Change Password page</h2>
 <img src="https://user-images.githubusercontent.com/92030900/229709905-fafe834d-b1af-4f78-aced-f0b0c996ea5a.JPG">
-
-![addCourse]()
-![addLesson]()
-![adminCourses]()
-![adminDashboard]()
-![adminLesson]()
-![course](https://user-images.githubusercontent.com/92030900/229705901-c5c3d265-aefd-49e5-9e71-dfd3e67deebc.JPG)
-![courseDetailes]()
-![feedback]()
-
-![homepage]()
-
-![lesson]()
-![login]()
-![profile]()
-
-![students]()
-![changePAssword]()
-
