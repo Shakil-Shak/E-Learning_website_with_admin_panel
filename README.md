@@ -76,8 +76,24 @@ https://user-images.githubusercontent.com/92030900/229568927-613215d6-1916-4fc5-
 <img src="https://user-images.githubusercontent.com/92030900/229569979-9ecc961b-2a50-41eb-becf-e202cdb144b9.jpg" width="250" height="500">
 
 <h3>Edit Profile page</h2>
-<img src="https://user-images.githubusercontent.com/92030900/229570006-0aa0d9b2-8839-41e0-86dd-adba7d4f3fb8.jpg" width="250" height="500">
-
-<h3>Shop Settings page</h2>
+<img src="https://user-images.githubusercontent.com/92030900/229570006-0aa0d9b2-8839-41e0-86dd-adba7d4f3fb8.jpg" width="250" height="500">![changePAssword](https://user-images.githubusercontent.com/92030900/229705839-7b7a4943-8fde-4d5b-ba13-4cbebf447408.JPG)
 <img src="https://user-images.githubusercontent.com/92030900/229579848-6ebf7253-6f05-4ce1-9862-39617974301e.jpg" width="250" height="500">
+
+![addCourse](https://user-images.githubusercontent.com/92030900/229705815-673ff9ff-c16f-4436-884c-cf6c80909042.JPG)
+![addLesson](https://user-images.githubusercontent.com/92030900/229705822-366adb0e-f536-494b-849b-cc423f0972b7.JPG)
+![adminCourses](https://user-images.githubusercontent.com/92030900/229705826-317ab5ac-2087-4a80-a42f-29e86bf23ccc.JPG)
+![adminDashboard](https://user-images.githubusercontent.com/92030900/229705830-429f2c58-fc7b-44ae-a18b-48202f530297.JPG)
+![adminLesson](https://user-images.githubusercontent.com/92030900/229705835-3f97ff8a-d7ac-46fb-a848-c5a677bb3904.JPG)
+![course](https://user-images.githubusercontent.com/92030900/229705901-c5c3d265-aefd-49e5-9e71-dfd3e67deebc.JPG)
+![courseDetailes](https://user-images.githubusercontent.com/92030900/229705910-61a8d1bf-eb3f-44bc-8278-f80b3c797753.JPG)
+![feedback](https://user-images.githubusercontent.com/92030900/229705915-90e93365-fe6a-4faa-ad26-dbed2bd8efd5.JPG)
+
+![homepage](https://user-images.githubusercontent.com/92030900/229705934-fe094fb2-2a72-45dc-be3f-65c93a5cdb3f.JPG)
+
+![lesson](https://user-images.githubusercontent.com/92030900/229705975-2b103e72-425b-4071-8809-aa8636b8959f.JPG)
+![login](https://user-images.githubusercontent.com/92030900/229705983-ab50c8b0-b95f-4a6b-a945-cc5adc4ff94f.JPG)
+![profile](https://user-images.githubusercontent.com/92030900/229705984-a1caadd0-67c7-4a57-9569-894baede7c3a.JPG)
+
+![signup](https://user-images.githubusercontent.com/92030900/229706044-8a60d00f-819f-427b-915a-ea2985014fda.JPG)
+![students](https://user-images.githubusercontent.com/92030900/229706051-79d94923-e842-4cbc-a8aa-10bb0fa31a3f.JPG)
 
